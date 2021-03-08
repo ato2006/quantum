@@ -1,2 +1,2 @@
 # quantum
-Abandoned Quantum Computer simulator with basic registers working.
+Abandoned Quantum Computer simulator with basic registers working
